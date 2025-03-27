@@ -2,6 +2,6 @@
 Projekt ma na celu przeprowadzenie analizy statystycznej wyborów
 ---
 ## Żródła danych 
-- [Mapa powiatów w formacie geojson](https://github.com/ppatrzyk/polska-geojson)
-- [Wyniki ogólnopolskich wyborów](https://pkw.gov.pl/)
-- [Dane lokalne](https://bdl.stat.gov.pl/bdl/start)
+- [ppatrzyk/polska-geojson](https://github.com/ppatrzyk/polska-geojson)
+- [Państwowa Komisja Wyborcza](https://pkw.gov.pl/)
+- [Główny Urząd Statystyczny](https://bdl.stat.gov.pl/bdl/start)
